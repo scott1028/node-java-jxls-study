@@ -23,3 +23,7 @@ arrayList.add(1);  // In Java
   ~=
 arrayList.addSync(1);  // In NodeJS with Java Module
 ```
+
+# Excel Mark Up Sample
+
+![Alt text](https://raw.githubusercontent.com/scott1028/node-java-jxls-study/master/jxls-syntax-sample.png "jxls-syntax-sample.png")
