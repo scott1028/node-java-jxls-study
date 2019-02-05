@@ -15,3 +15,11 @@ OpenJDK 64-Bit Server VM (build 10.0.2+13-Ubuntu-1ubuntu0.18.04.4, mixed mode)
 ```
 v10.15.0
 ```
+
+# Usage Java Module of NodeJS Tips
+
+```
+arrayList.add(1);  // In Java
+  ~=
+arrayList.addSync(1);  // In NodeJS with Java Module
+```
