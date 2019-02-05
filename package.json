@@ -1,0 +1,13 @@
+{
+  "name": "node-java-jxls-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "java": "^0.11.0"
+  },
+  "scripts": {
+    "preinstall": "javac src/com/model/User.java",
+    "test": "node src/main.js"
+  }
+}
